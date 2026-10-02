@@ -9,4 +9,6 @@ Trabalho de informatica
 ## Atividade de informatica excel
 <img width="1861" height="742" alt="image" src="https://github.com/user-attachments/assets/8e19c2ce-3668-4530-bab4-49d030e03473" />
 
+## Ativadade do power BI
+<img width="1311" height="733" alt="image" src="https://github.com/user-attachments/assets/3012e952-f43a-4ee1-aaf6-62350e3fab27" />
 
