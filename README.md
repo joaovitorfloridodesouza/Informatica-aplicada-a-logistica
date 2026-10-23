@@ -12,3 +12,6 @@ Trabalho de informatica
 ## Ativadade do power BI
 <img width="1311" height="733" alt="image" src="https://github.com/user-attachments/assets/3012e952-f43a-4ee1-aaf6-62350e3fab27" />
 
+## Atividade análise de dados no power bi
+<img width="1321" height="716" alt="image" src="https://github.com/user-attachments/assets/9f89a26c-ca51-4e06-872a-2970cdc81b29" />
+
