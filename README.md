@@ -33,6 +33,10 @@ Atividade realizada através de uma base de dados de empresas multimodais, inici
 Nesta atividade, foi realizada a continuação de uma análise desenvolvida anteriormente no Excel. Inicialmente, foram selecionados dados do Portal Brasileiro de Dados Abertos, disponibilizados em formato CSV, que foram organizados e filtrados para a elaboração de cinco gráficos no Excel. Nesta etapa, os mesmos dados e análises foram reproduzidos no Power BI, utilizando seus recursos de visualização e interação para apresentar os resultados de forma mais organizada e dinâmica.
 <img width="1321" height="716" alt="image" src="https://github.com/user-attachments/assets/9f89a26c-ca51-4e06-872a-2970cdc81b29" />
 
+# Atividade 6
+## Nesta etapa, utilizamos uma base de dados governamental previamente tratada para aprofundar as técnicas de modelagem no Power BI. O foco técnico da atividade foi a criação de uma tabela dimensional e o estabelecimento de um relacionamento de cardinalidade "1 para muitos" com a base principal. Além disso, aplicamos a técnica de categorização de dados por URL, o que permitiu renderizar figuras dinamicamente (bandeiras estaduais) e integrar imagens diretamente às visualizações e tabelas do painel.
+<img width="1312" height="700" alt="image" src="https://github.com/user-attachments/assets/484368f1-3d54-47c1-85a1-96005f4436fb" />
+
 # Atividade prova  
 ## Prova gráfico linear
 <img width="1238" height="738" alt="image" src="https://github.com/user-attachments/assets/095813c7-9ce9-43f9-9fd3-290fa0d41126" />
