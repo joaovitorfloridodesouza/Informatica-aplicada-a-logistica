@@ -38,6 +38,12 @@ Nesta atividade, foi realizada a continuação de uma análise desenvolvida ante
 Nesta etapa, utilizamos uma base de dados governamental previamente tratada para aprofundar as técnicas de modelagem no Power BI. O foco técnico da atividade foi a criação de uma tabela dimensional e o estabelecimento de um relacionamento de cardinalidade "1 para muitos" com a base principal. Além disso, aplicamos a técnica de categorização de dados por URL, o que permitiu renderizar figuras dinamicamente (bandeiras estaduais) e integrar imagens diretamente às visualizações e tabelas do painel.
 <img width="1312" height="700" alt="image" src="https://github.com/user-attachments/assets/484368f1-3d54-47c1-85a1-96005f4436fb" />
 
+# Atividade 7
+# Análise de Regressão Linear - Vendas de Sorvete (Kaggle)
+Atividade iniciada com a extração de um dataset bruto da plataforma Kaggle. Os dados foram descompactados e estruturados no Excel convertendo o arquivo CSV (usando o recurso de dividir Texto para Colunas com separação por vírgula). Em seguida, foi construído um gráfico de dispersão mapeando as variáveis nos eixos X e Y, finalizando com a aplicação de uma linha de tendência (regressão linear) para a análise visual inicial.
+<img width="710" height="322" alt="image" src="https://github.com/user-attachments/assets/f05a8b30-8dad-40b9-83ad-6fbc36bd7f24" />
+
+
 # Atividade prova  
 ## Prova gráfico linear
 <img width="1238" height="738" alt="image" src="https://github.com/user-attachments/assets/095813c7-9ce9-43f9-9fd3-290fa0d41126" />
